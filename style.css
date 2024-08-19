@@ -1,0 +1,38 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top:20px;
+    padding-left: 40px;
+  } 
+
+#container{
+ display:flex;
+ flex-wrap:wrap;
+ border:1px solid #363636;
+}
+
+.grid{
+    border:1px solid #363636;
+    height:10px;
+    width:10px;
+    box-sizing: border-box;
+}
+
+.grid-grey1{
+    background-color: #CECECE;
+}
+
+.grid-grey2{
+    background-color: #BBBBBB;
+}
+
+.grid-grey3{
+    background-color:#838383;
+} 
+
+.grid-grey4{
+    background-color: #646464;
+} 
+
+.grid-grey5{
+    background-color: #202020;
+} 
